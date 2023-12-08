@@ -1,0 +1,17 @@
+body{
+    background-color: azure;
+}
+
+.container{
+    text-align: center;
+    margin: 100px;
+}
+
+button{
+    cursor: pointer;
+    margin: 20px 15px;
+}
+
+button:active{
+    opacity: 0.6;
+}
